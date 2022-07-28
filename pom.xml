@@ -29,10 +29,6 @@
         </snapshotRepository>
 	
  </distributionManagement>   
-	
-	
-	
-	
 	<reporting>
 		<plugins>
 			<plugin>
