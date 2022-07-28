@@ -10,11 +10,7 @@
 			scm:git:git@github.com:OpsTree/ContinuousIntegration.git
 		</developerConnection>
 	  <tag>HEAD</tag>
-  </scm>
-
-	
-	
-	
+  </scm>	
 	 <distributionManagement>
    <!-- use the following if you're not using a snapshot version. -->
    <repository>
